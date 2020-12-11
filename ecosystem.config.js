@@ -1,6 +1,6 @@
 module.exports = {
   apps : [{
-    name: 'MY-APP',
+    name: 'LUMIA.GG',
     script: 'npm',
     args: 'start',
     env_production: {
